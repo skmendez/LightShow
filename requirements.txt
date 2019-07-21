@@ -1,0 +1,12 @@
+https://github.com/intxcc/pyaudio_portaudio/releases/download/1.1.1/PyAudio-0.2.11-cp37-cp37m-win_amd64.whl
+youtube_dl==2019.7.2
+cue_sdk==2.1.0
+scipy==1.1.0
+pywin32==224
+mss==4.0.3
+ffmpeg_python==0.2.0
+matplotlib==3.1.0
+opencv_python==4.0.0.21
+beautifulsoup4==4.8.0
+ffmpeg==1.4
+win32gui==221.6
