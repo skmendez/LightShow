@@ -2,7 +2,7 @@ https://github.com/intxcc/pyaudio_portaudio/releases/download/1.1.1/PyAudio-0.2.
 youtube_dl==2019.7.2
 cue_sdk==2.1.0
 scipy==1.1.0
-pywin32==224
+pywin32==301
 mss==4.0.3
 ffmpeg_python==0.2.0
 matplotlib==3.1.0
